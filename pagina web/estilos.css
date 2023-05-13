@@ -1,0 +1,23 @@
+body{
+    background-image: url(motos.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+h1{
+color: blueviolet;
+text-align: center;
+
+
+}
+h2{
+text-align: center;
+color: blue;
+
+}
+li{
+color: rgb(255, 0, 242);
+text-align: left;
+font-size:3em;
+
+}
